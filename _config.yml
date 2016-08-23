@@ -1,0 +1,28 @@
+name: Sojourning Settler
+favicon: null
+layout_spectrum: 0.1627524569630623
+typography_spectrum: 0.6371682193130255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.062202545115724206
+  lightness: 0.5479804934002459
+  saturation: 0.9817065438255668
+  rhythmicContrast: 0.2867066883482039
+purpose: []
